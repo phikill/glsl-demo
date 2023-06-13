@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=9N-kgCqy2xs
 
 Download Binary
 ---------------
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9udDNXOVc1NF9ubTJZaVB1WmpmSXpmdFdLZ3xBQ3Jtc0trUWVSVGl6dUFFLThtc0dXTzVDTVVTMTlyZ2UyeHA4ejJYejhIaTY1aUtJZ2lsSDVHMmRtMnljcm9Fclh3cW83d2dueEZUS1BfTUFpcWdKZjQ1Mk1tUHFNN2owVHhCbDZsS3c4TUFmVnNxR1QzOUtPTQ&q=https%3A%2F%2Fgithub.com%2Fyagero%2Fglsl-demo%2Freleases%2Fdownload%2F1.1%2FGLSLDemo_win32_v1.1.zip&v=9N-kgCqy2xs
+https://github.com/yagero/glsl-demo/releases/download/1.1/GLSLDemo_win32_v1.1.zip
 
 Keys
 ----
